@@ -1,5 +1,4 @@
 ## Olá 👋
- --
 
  Essa atualmente é movimentada pelo meu irmão [EmanuelPeixoto](https://github.com/EmanuelPeixoto)
 
